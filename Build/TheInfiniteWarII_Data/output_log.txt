@@ -1,0 +1,57 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.058 seconds
+Platform assembly: C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ayden\Documents\Unity3DProjects\The Infinite War II - Back to Dark\Build\TheInfiniteWarII_Data\Managed\System.dll (this message is harmless)
+desktop: 2560x1440 59Hz; virtual: 2560x1440 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.836550 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 1b00 -> priority: 1 
+  Thread -> id: 7194 -> priority: 1 
+  Thread -> id: 48b4 -> priority: 1 
+  Thread -> id: 106c -> priority: 1 
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/PhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/.\PhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/PhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/libPhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/.\libPhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/libPhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/PhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/.\PhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/PhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/libPhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/.\libPhotonCryptoPlugin
+Fallback handler could not load library C:/Users/Ayden/Documents/Unity3DProjects/The Infinite War II - Back to Dark/Build/TheInfiniteWarII_Data/Mono/libPhotonCryptoPlugin
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.434664 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1287.
+Total: 0.804977 ms (FindLiveObjects: 0.070826 ms CreateObjectMapping: 0.037546 ms MarkObjects: 0.658772 ms  DeleteObjects: 0.037262 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.067162 ms
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 984.
+Total: 3.293295 ms (FindLiveObjects: 0.087039 ms CreateObjectMapping: 0.070542 ms MarkObjects: 1.376710 ms  DeleteObjects: 1.758150 ms)
+
