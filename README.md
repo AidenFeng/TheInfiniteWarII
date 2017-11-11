@@ -73,7 +73,7 @@ Versions
  * 0.1 CharacterThirdPerson Practice
  * 1.0 Basic Third character Version deployed
  * 1.1 Basic First character Version deployed with Functional User Interface
- * 1.5 The Infinite War II (standalone version) - Origin
+ * 1.5 The Infinite War I (standalone version) - Origin
  * 2.0 The Infinite War II (Online) - Back to Dark
 
 
