@@ -74,10 +74,16 @@ Versions
  * 1.0 Basic Third character Version deployed
  * 1.1 Basic First character Version deployed with Functional User Interface
  * 1.5 The Infinite War I (standalone version) - Origin
- * 2.0 The Infinite War II (Online) - Back to Dark
+ * 2.0(Latest) The Infinite War II (Online) - Back to Dark
 
 
-
+To do List
+-----------------
+ * Finish the Automative Integration Scripts for Unity3D
+ * Add documentation about changing mouse sensitivity
+ * Upload older versions of Project (The issue: cannot upload since single file size >100MB)
+ * Integrate online verison with standalone version so that users can add robot opponents in the online version
+ 
 Contact
 ----------
 - [submit issue](https://github.com/AidenFeng/The-Infinite-War-II-Online----Back-to-Dark/issues/new)
